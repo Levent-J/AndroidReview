@@ -1,0 +1,20 @@
+√ 高级配置Android Studio
+熟悉Dagger和ButterKnife 
+熟悉git工作流程（廖雪峰）
+图片优化处理（Picasso等库）
+sqllite数据库使用
+熟练Fragment框架搭建
+自定义View
+RxJava异步操作实践
+熟练Retrofit + RxJava网络框架
+datebinding
+eventBus
+RxJava + datebinding:https://github.com/TangoAgency/android-data-binding-rxjava
+RxJava + EventBUs:http://www.jianshu.com/p/ca090f6e2fe2/
+Router框架：https://github.com/yjfnypeu/Router
+2048小游戏
+阅读源码：
+https://github.com/googlesamples/android-topeka
+http://www.imooc.com/article/2448
+https://github.com/JackyAndroid/AndroidChromium
+http://blog.piasy.com/2016/07/11/Understand-OkHttp/
