@@ -1,12 +1,13 @@
 √ 高级配置Android Studio
 √熟悉git工作流程（廖雪峰）
-熟悉Dagger和ButterKnife 
+√熟悉Dagger和ButterKnife 
 图片优化处理（Picasso等库）
 sqllite数据库使用
 熟练Fragment框架搭建
 自定义View
 RxJava异步操作实践
 熟练Retrofit + RxJava网络框架
+干货app第二版
 datebinding
 eventBus
 RxJava + datebinding:https://github.com/TangoAgency/android-data-binding-rxjava
