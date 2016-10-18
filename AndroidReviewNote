@@ -4,7 +4,7 @@
 √图片优化处理（Picasso等库）
 √sqllite数据库使用
 √熟练Fragment框架搭建
-eventBus
+√eventBus
 DataBinding
 自定义View
 RxJava异步操作实践
