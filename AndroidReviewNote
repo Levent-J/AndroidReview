@@ -6,14 +6,13 @@
 √熟练Fragment框架搭建
 √eventBus
 √DataBinding
-自定义View
 RxJava异步操作实践
 熟练Retrofit + RxJava网络框架
 干货app第二版
 RxJava + datebinding:https://github.com/TangoAgency/android-data-binding-rxjava
 RxJava + EventBUs:http://www.jianshu.com/p/ca090f6e2fe2/
 Router框架：https://github.com/yjfnypeu/Router
-2048小游戏
+自定义View(2048小游戏)
 阅读源码：
 https://github.com/googlesamples/android-topeka
 http://www.imooc.com/article/2448
