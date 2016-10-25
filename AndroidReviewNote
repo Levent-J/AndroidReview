@@ -9,14 +9,13 @@
 √RxJava异步操作实践
 √熟练Retrofit + RxJava网络框架
 √阅读RxJava源码
-学习使用RxBus
+√学习使用RxBus
 Router框架：https://github.com/yjfnypeu/Router
-课程表
+课程表View(采用RecyclerView???)
 看一下好的项目源码
-干货2.0
-自定义View(2048小游戏)
-阅读源码：
-https://github.com/googlesamples/android-topeka
-http://www.imooc.com/article/2448
-https://github.com/JackyAndroid/AndroidChromium
-http://blog.piasy.com/2016/07/11/Understand-OkHttp/
+干货2.0(Retrofit+RxJava+RxBus 最好用mvp架构)
+学习自定义View(最后做出2048小游戏)
+了解单元测试（知乎文章：https://zhuanlan.zhihu.com/p/22202880）
+Java多线程|并发编程|线程池的作用
+Fragment生命周期
+Service详解
