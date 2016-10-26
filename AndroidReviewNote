@@ -10,11 +10,12 @@
 √熟练Retrofit + RxJava网络框架
 √阅读RxJava源码
 √学习使用RxBus
-Router框架：https://github.com/yjfnypeu/Router
-课程表View(采用RecyclerView???)
+√Router框架：https://github.com/yjfnypeu/Router
+√课程表View(采用RecyclerView???)
 看一下好的项目源码
-干货2.0(Retrofit+RxJava+RxBus 最好用mvp架构)
-学习自定义View(最后做出2048小游戏)
+low级课程表OR干货2.0(Retrofit+RxJava+RxBus 最好用mvp架构)
+学习自定义View(最后做出2048小游戏?)
+看一下OGEngine游戏引擎做别踩白块游戏
 了解单元测试（知乎文章：https://zhuanlan.zhihu.com/p/22202880）
 Java多线程|并发编程|线程池的作用
 Fragment生命周期
